@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/galaxy_space_background">
+    <item
+        android:id="@+id/homeFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:icon="@drawable/home_button"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/favoriteFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:icon="@drawable/favorite_symbol"
+        android:title="@string/favorites" />
+    <item
+        android:id="@+id/profileFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:icon="@drawable/profile_icon"
+        android:title= "@string/profile" />
+    <item
+        android:id="@+id/settingsFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:icon="@drawable/settings_icon"
+        android:title="@string/settings" />
+</menu>
