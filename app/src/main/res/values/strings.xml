@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Android Abschluss</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings">Settings</string>
+    <string name="favorites">Favorites</string>
+    <string name="home">Home</string>
+    <string name="detail">Detail</string>
+    <string name="free_game_galaxy">Free Game Galaxy</string>
+    <string name="profile">Profile</string>
+    <string name="email">Email: %1$s</string>
+    <string name="about_me_beschreibung">About Me (Beschreibung)</string>
+    <string name="logout">Logout</string>
+    <string name="spiele">Spiele</string>
+    <string name="wohnort">Wohnort</string>
+    <string name="name">Name</string>
+    <string name="email_example_example_com">Email: example@example.com</string>
+    <string name="email_adresse">Email Adresse</string>
+    <string name="passwort">Passwort</string>
+    <string name="registrieren">Registrieren</string>
+    <string name="anmelden">Anmelden</string>
+    <string name="keine_favoriten_vorhanden">Keine Favoriten vorhanden</string>
+    <string name="favoriten">Favoriten</string>
+    <string name="plattform_w_hlen">Plattform wählen:</string>
+    <string name="pc">PC</string>
+    <string name="nintendo_switch">Nintendo Switch</string>
+    <string name="playstation_5">Playstation 5</string>
+    <string name="xbox_one">Xbox One</string>
+    <string name="android">Android</string>
+    <string name="ios">iOS</string>
+    <string name="sortieren_nach">Sortieren nach:</string>
+    <string name="datum">Datum</string>
+    <string name="wert">Wert</string>
+    <string name="beliebtheit">Beliebtheit</string>
+    <string name="zur_ck_zum_login">Zurück zum Login</string>
+</resources>
